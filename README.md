@@ -1,5 +1,5 @@
 # Make-Your-Voice-Heard-UR
-- **Those who cannot remember the past are condemned to repeat it**
+- **History repeats itself because people always forget**
 - I want this website to be a platform where one can share their thoughts freely, and also serve as an archive of all the incidents that happened(in the past and ongoing) on this campus.
 - We DO NOT want to use this against our school or any individual. Our intention is to keep a clear-structured archive to help our students and school to better reflect on past cases, and to help those that faces discrimination.
 
