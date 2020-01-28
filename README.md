@@ -1,33 +1,33 @@
 # Make-Your-Voice-Heard-UR
-- **History repeats itself because people tend to forget**
-- I want this website to be a platform where one can share their thoughts freely, and also keep an archive of all the incidents that happened(in the past and ongoing) on this campus.
+- **Those who cannot remember the past are condemned to repeat it**
+- I want this website to be a platform where one can share their thoughts freely, and also serve as an archive of all the incidents that happened(in the past and ongoing) on this campus.
 - We DO NOT want to use this against our school or any individual. Our intention is to keep a clear-structured archive to help our students and school to better reflect on past cases, and to help those that faces discrimination.
 
 
-# What to do when you encounter discrimination in any form 
+# What should you do if you encounter discrimination?
 - Report! Report! Report!
 - You can reach out to any faculty in this campus! 
 - Talk to your friends, we will walk alone when facing racism!
 
-# Why you should report the incident 
+# Why you should report?
 
 For youself
 --- 
 Reporting incidents is to protect **YOUR OWN SAFETY**.
-When you report an incident, you do not have to interact with those who had verbally or physically abused you. This will protect you from any further potential retaliation.
+When you report an incident, you do not have to interact with those who had verbally or physically abused you. Reporting to authority will protect you from any further potential retaliation.
 
 For the whole community
 ---
-Reporting a incident is not only for yourself, but also for the good of our whole community. If one racist gets away without punishments, it will set a bad example for many.
-So we strongly encourage you to stand up and speak out, your brave action will contribute to our diversity, and help end racism which affects every single one of us.
+Reporting a discriminatory incident is not only for yourself, but also for the good of our entire community. If one racist gets away without punishments, it will set a bad example for many.
+So we strongly encourage you to stand up and speak out. Your brave actions will contribute to the bettering of our community and help end racism, which affects every single one of us.
 
-It violates laws, university policies and values 
+It violates law, university policies and values 
 ---
 -   Title IX
 -  [School policy](https://policy.richmond.edu/documents/policy-pdfs/Public/Governance/policy_prohibiting_discrimination_and_harrassment_for_students.pdf)(page 3)
 
 # Our allies
-All the organizations supporting us listed alphabetically
+All the organizations supporting us are listed below in alphabetical order:
 - Asian American Student Association 
 - Black Student Alliance
 - Chinese Student and Scholars Association
@@ -39,17 +39,17 @@ All the organizations supporting us listed alphabetically
 - Spiders Against Sexual Assault and Violence
 - WILL* Program
 
-# What to avoid after you encounter discrimation/assault
-- It is advised to avoid contact with the person or group of people who initiated the act of discrimination or assault unless absolutely necessary. 
-- If you find yourself in a situation where the person who initiated the act of discrimination, it is important to have a University official and/or someone you trust present. This way there is at least one witness present in case information needs to be confirmed later on. 
+# What to avoid after you have encountered discrimation/assault
+- We advise you to avoid contact with the person or group of people who initiated the act of discrimination or assault unless if its absolutely necessary. 
+- If you find yourself in a situation where the individual/group who initiated the act of discrimination, it is important to have a University official and/or someone you trust present. This allows at least one witness present in case of need for later confirmation.
 - You don't owe your offender any of your time to hear out their explanations. It is possible they will try to make you feel guilty for your involvement in the situation or coerce you to do something you don't want to do. 
 
 # How this website works 
--  Send to my email, guarantede your anonymity unless you specify you want your name published with your submission, I will only check my email and upload contends in public wifi. So there is no tracing back.
+-  Email me, I will guarantee your anonymity unless specified. I will only check my email and upload contends on public wifi, avoiding any digital trace.
 
 
 # Resources:
-## Organizations to reach out:
+## Organizations or individuals to reach out to:
 - Richmond Dean jboehman@richmond.edu
 - Westhampton Dean mgenoni@richmond.edu 
 - Conduct Council: sbisese@richmond.edu
