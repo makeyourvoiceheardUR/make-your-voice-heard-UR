@@ -45,7 +45,7 @@ All the organizations supporting us are listed below in alphabetical order:
 - You don't owe your offender any of your time to hear out their explanations. It is possible they will try to make you feel guilty for your involvement in the situation or coerce you to do something you don't want to do. 
 
 # How this website works 
--  Email me, I will guarantee your anonymity unless specified. I will only check my email and upload contends on public wifi, avoiding any digital trace.
+-  Details will come up in a few days! But I will guarantee your anonymity unless specified. 
 
 
 # Resources:
