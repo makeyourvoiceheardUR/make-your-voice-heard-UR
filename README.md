@@ -23,7 +23,7 @@ So we strongly encourage you to stand up and speak out. Your brave actions will 
 
 It violates law, university policies and values 
 ---
--   Title IX
+-   [Title VI](https://www.justice.gov/crt/fcs/TitleVI)
 -  [School policy](https://policy.richmond.edu/documents/policy-pdfs/Public/Governance/policy_prohibiting_discrimination_and_harrassment_for_students.pdf)(page 3)
 
 # Our allies
