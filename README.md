@@ -24,7 +24,7 @@ So we strongly encourage you to stand up and speak out. Your brave actions will 
 It violates law, university policies and values 
 ---
 -   [TITLE VI OF THE CIVIL RIGHTS ACT OF 1964](https://www.justice.gov/crt/fcs/TitleVI)
--  [School Policy(https://policy.richmond.edu/documents/policy-pdfs/Public/Governance/policy_prohibiting_discrimination_and_harrassment_for_students.pdf)(page 3)
+-  [School Policy](https://policy.richmond.edu/documents/policy-pdfs/Public/Governance/policy_prohibiting_discrimination_and_harrassment_for_students.pdf)(Page 3)
 
 # Our allies
 All the organizations supporting us are listed below in alphabetical order:
