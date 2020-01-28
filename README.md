@@ -7,7 +7,7 @@
 # What should you do if you encounter discrimination?
 - Report! Report! Report!
 - You can reach out to any faculty in this campus! 
-- Talk to your friends, we will walk alone when facing racism!
+- Talk to your friends, you are not alone when facing racism!
 
 # Why you should report?
 
